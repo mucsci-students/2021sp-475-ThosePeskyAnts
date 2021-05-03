@@ -7,10 +7,12 @@ This game utitlizes A* pathfinding to allow the ants to move around your blocks 
 # Windows 
 [Download Link](https://drive.google.com/file/d/1PS4pfoOEs4elxRYFIPmQ1aZT1XFnLxOP/view?usp=sharing)
 
-Download the Zip file above and run PeskyAnts.exe to play!
+Download and extract the Zip file above and run PeskyAnts.exe to play!
 
 # Mac
-[Download Link]()
+[Download Link](https://drive.google.com/file/d/1wms6Usd14W-CHrfq004pjLkXKWq-78fl/view?usp=sharing)
+
+Download and extract the Zip file above
 
 # Linux
 [Download Link]()
