@@ -2,14 +2,23 @@
 
 "Those Pesky Ants" is a puzzle game where you must block off the path of ants so that they can't steal your sugar. 
 
-# Windows 
+This game utitlizes A* pathfinding to allow the ants to move around your blocks and reach your sugar.
 
+# Windows 
+[Download Link]()
 
 # Mac
-
+[Download Link]()
 
 # Linux
+[Download Link]()
 
+# Credits 
+
+Game created by: 
+- Avery Dworek
+- Amy Burnett 
+- Cory Jeremiah 
 
 # Assets
 
