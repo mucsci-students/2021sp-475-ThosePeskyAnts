@@ -5,7 +5,7 @@
 This game utitlizes A* pathfinding to allow the ants to move around your blocks and reach your sugar.
 
 # Windows 
-[Download Link](https://drive.google.com/file/d/1PS4pfoOEs4elxRYFIPmQ1aZT1XFnLxOP/view?usp=sharing)
+[Download Link](https://drive.google.com/file/d/1Ws5aPktS_C2jV4-JlU5RotzHfIdo0xV7/view?usp=sharing)
 
 Download and extract the Zip file above and run PeskyAnts.exe to play!
 
