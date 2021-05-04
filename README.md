@@ -12,7 +12,7 @@ Download and extract the Zip file above and run PeskyAnts.exe to play!
 # Mac
 [Download Link](https://drive.google.com/file/d/1wms6Usd14W-CHrfq004pjLkXKWq-78fl/view?usp=sharing)
 
-Download and extract the Zip file above
+Download and extract the Zip file above and run the .app file to play!
 
 # Linux
 [Download Link]()
