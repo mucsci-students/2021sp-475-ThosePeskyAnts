@@ -14,9 +14,6 @@ Download and extract the Zip file above and run PeskyAnts.exe to play!
 
 Download and extract the Zip file above and run the .app file to play!
 
-# Linux
-[Download Link]()
-
 # Credits 
 
 Game created by: 
